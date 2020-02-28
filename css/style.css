@@ -4,7 +4,7 @@
      
  }  
  .mba{
-     background-color: darkgreen;
+     background-color: slateblue;
  }
   
  .mbi{
@@ -16,6 +16,11 @@
  }
  .pas{
     font-family: 'Dancing Script' 
+ }
+ .supu{
+    font-family: 'Dancing Script', ;
+    font-family: 'Anton', ;
+    font-family: 'Akronim', ;
  }
 
  .pus{
