@@ -1,6 +1,7 @@
 
  .container{
      background-color: cyan;
+     
  }  
  .mba{
      background-color: darkgreen;
@@ -8,4 +9,15 @@
   
  .mbi{
      background-color: darkorange;
+ }
+
+ .pes{
+    font-family: 'Dancing Script';
+ }
+ .pas{
+    font-family: 'Dancing Script' 
+ }
+
+ .pus{
+    font-family: 'Dancing Script'
  }
