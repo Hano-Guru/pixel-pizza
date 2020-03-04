@@ -7,12 +7,12 @@ hanad ahmed abdi
  ## Licence
  MIT Copyright 2020 
  ## Technoloy used
-  HTML
-  CSS 
-  JAVASCRIPT
-  BOOSTRAP
-  JQUERY
-  GOOGLE FONTS 
+- HTML
+- CSS 
+- JAVASCRIPT
+- BOOSTRAP
+- JQUERY
+- GOOGLE FONTS 
   
   ## BDD 
   when you vist the site first you will see  pizza picture and the landing page with the logo and the name(Pixap pizzas) and the navigation bar. You will use the navigation bar to go to diffrent parts of the page.
