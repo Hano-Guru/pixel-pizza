@@ -5,11 +5,11 @@
      
  }  
  .mba{
-     background-color: slateblue;
+     
  }
   
  #pas{
-     background-color: darkorange;
+    
  }
 
  #pes{
@@ -43,6 +43,7 @@
     display: flex;
     border: 0;
     padding: 20px 6opx;
+    background-image: url(https://images.unsplash.com/photo-1522123448242-b5eb47dc7438?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
 }
 .firstLetter{
     color: #903;
@@ -64,13 +65,23 @@
     font-size: 75px;
 
 }
-.mbi{
-    background-color: red;
-}
+
 #order{
     background-color: maroon;
 }
 #kaka{
     text-align: center;
-    background-color: blue;
+    background-color: olive;
+    
+}
+#order{ 
+
+} .rows{
+    background-color: rgb(191, 210, 216);
+    text-align: right;
+
+}
+
+#myForm{
+    text-align: end;
 }
