@@ -23,7 +23,7 @@ This is a  web application that allows users to order different sizes of pizzas 
 | BEHAVIOUR | OUTPUT|
 |:------------------|:-----------|
 | User loads on to the page  |  User Views the landing page. |
-| User fills the form  | Form is filled with deffrent types. |
+| User fills the form  | Form is filled with deffrent user's preffered order. |
 | User clicks order  | User gets what he orderd for.  | 
 
 
