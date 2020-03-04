@@ -1,87 +1,73 @@
+.container {
+    background-color: cyan;
+}
 
- .container{
-     background-color: cyan;
-     
-     
- }  
- .mba{
-     
- }
-  
- #pas{
-    
- }
-
- #pes{
+#pes {
     font-family: 'Dancing Script';
     background: #ec7373;
     border-radius: 50%;
+}
 
- }
- #loka{
+#loka {
     font-family: 'Dancing Script';
     background: #d8b5b5;
     border-radius: 100%;
- }
- /* .rere{
-   text-align: center;
-   text-decoration:goldenrod;
-   font-family: 'Great Vibes', ;
- } */
- .alii{
-     color: black;
-    
-     
- }
+}
 
- #ppas{
+.alii {
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+
+#ppas {
     font-family: 'Dancing Script';
     background: #ffe196;
     border-radius: 1000px;
- }
- #samu{
+}
+
+#samu {
     display: flex;
     border: 0;
     padding: 20px 6opx;
     background-image: url(https://images.unsplash.com/photo-1522123448242-b5eb47dc7438?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
 }
-.firstLetter{
+
+.firstLetter {
     color: #903;
     float: left;
-    font-family: Georgia,;
+    font-family: Georgia, ;
     font-size: 75px;
 }
-.secondletter{
+
+.secondletter {
     color: #903;
     float: left;
-    font-family: Georgia,;
+    font-family: Georgia, ;
     font-size: 75px;
-
 }
-.tirth{
+
+.tirth {
     color: #903;
     float: left;
-    font-family: Georgia,;
+    font-family: Georgia, ;
     font-size: 75px;
-
 }
 
-#order{
-    background-color: maroon;
+#order {
+    background-color: whitesmoke;
 }
-#kaka{
+
+#kaka {
     text-align: center;
-    background-color: olive;
-    
+    background-color: maroon
 }
-#order{ 
 
-} .rows{
+.rows {
     background-color: rgb(191, 210, 216);
     text-align: right;
-
 }
 
-#myForm{
+#myForm {
     text-align: end;
 }
