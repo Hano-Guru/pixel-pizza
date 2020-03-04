@@ -64,5 +64,7 @@ Total.prototype.finalTotal = function () {
 
     });
 
-    
-});
+
+
+    });
+
