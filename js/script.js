@@ -24,6 +24,6 @@ function getQuantity() {
 }
 
 function getTotalAmount() {
-    var totalAmount = (getSizeValue() + getCrust() + getToppings()) * getQuantity();
-    alert("You have Orderd" + getQuantity() + " pizza(s)." + "" + " The Total Amount is " + (totalAmount) + "" + " Thank you!");
+    var totalAmount = (getPizzaType() + getSizeValue() + getCrust() + getToppings()) * getQuantity();
+    alert("You Orderd" + getQuantity() + " pizza." + "" + " The Total Amount is " + (totalAmount) + "" + " Thank you!");
 }
